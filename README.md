@@ -1,1 +1,1 @@
-# React + Vite + TypeScript + Eslint (Airbnb) + Prettier
+# React + Vite + TypeScript + ESLint (Airbnb) + Prettier
